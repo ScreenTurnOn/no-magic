@@ -21,4 +21,4 @@ This tool is a symlink farm. Here's how to use it with this repo.
   stow --dotfiles --target "$HOME" jj-vcs
 ```
 
-Now your configuration is symlined to `~/.config/helix/config.toml` and `~/.config/jj/config.toml`.
+Now your configuration is symlinked to `~/.config/helix/config.toml` and `~/.config/jj/config.toml`.
